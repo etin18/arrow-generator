@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!--
+    箭頭素材 - 使用方式：
+    1. 換顏色：修改下方 fill="..." 的色碼
+    2. 放大縮小：直接調整 width/height，SVG 不會失真
+    3. 旋轉：在 <g> 加上 transform="rotate(角度 100 100)"
+  -->
+
+  <!-- ===== 右箭頭 ===== -->
+  <g id="arrow-right">
+    <polygon points="40,70 130,70 130,40 180,100 130,160 130,130 40,130"
+             fill="#FF4444" stroke="#CC0000" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+</svg>
